@@ -20,4 +20,3 @@ Example: I want to name a folder of videos from 1 to 10, my list would be [str(i
 if __name__ == "__main__":
     rename(#your_dir_name,#your_newnames_list)
     
-    
